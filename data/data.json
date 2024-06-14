@@ -1,0 +1,16 @@
+[
+    {
+        "userId": 10000001,
+    "profilePic": "cool-art-wallpaper-hd-1080p-186928.jpg",
+    "youserName" : "Will Smith",
+    "accountName": "~W~101",
+    "userBio" : "actor, tourist extrodinare , family man"
+},
+    {
+        "userId": 10000002,
+    "profilePic": "naruto-wallpaper-full-hd-1080p-396512.jpg",
+    "youserName" : "Naruto",
+    "accountName": "^^ Believe it",
+    "userBio" : "Shinobi, 7th Hokage , Ramen and Hinata -Lover "
+}
+]
